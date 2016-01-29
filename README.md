@@ -104,7 +104,7 @@ your Docker daemon.
 ## User Feedback
 
 ### Issues
-If you have any problems with or questions about this image, please contact us through a
+If you have any problems with or questions about this image, please make contact through a
 [GitHub issue](https://github.com/instainer/parse-server-docker/issues).
 
 ## Contributing
