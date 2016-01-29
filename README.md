@@ -1,4 +1,4 @@
-# parse-server
+# docker-parse-server
 
 ## What is Parse Server?
 As you might now [Parse](https://parse.com) decided to wind down their services beginning January 28, 2016, effective
