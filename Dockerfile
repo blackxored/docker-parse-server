@@ -1,4 +1,5 @@
 FROM node:argon
+MAINTAINER <adrian@adrianperez.org>
 
 RUN mkdir -p /usr/src/app
 WORKDIR /usr/src/app
