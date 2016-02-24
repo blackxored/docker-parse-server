@@ -60,6 +60,7 @@ Here's a brief description of those:
   - PARSE_JAVASCRIPT_KEY
   - PARSE_REST_API_KEY
   - PARSE_DOTNET_KEY
+* **PARSE_FACEBOOK_APP_IDS**: Comma-separated list of Facebook App IDs.
 
 From the Parse Server documentation: *The client keys used with Parse are no
 longer necessary with parse-server. If you wish to still require them, perhaps

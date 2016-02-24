@@ -27,6 +27,11 @@ Object.keys(configMapping).forEach(function(configKey) {
   }
 });
 
+var facebookAppIds = process.env.PARSE_FACEBOOK_APP_IDS;
+if (facebookAppIds) {
+  config.facebookAppIds = facebookAppIds.split(',')
+}
+
 var api = new ParseServer(config);
 
 // Serve the Parse API on the /parse URL prefix
