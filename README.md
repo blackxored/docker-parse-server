@@ -1,5 +1,7 @@
 # docker-parse-server
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/blackxored/docker-parse-server.svg)](https://greenkeeper.io/)
+
 ## What is Parse Server?
 
 As you might now [Parse](https://parse.com) decided to wind down their services
